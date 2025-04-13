@@ -1,6 +1,6 @@
 # Olá, mundo! 🌍
 
-Eu sou Snaymi, um(a) desenvolvedor(a) apaixonado(a) por tecnologia e inovação! 🚀
+Eu sou Snaymi, um desenvolvedor apaixonado por tecnologia e inovação! 🚀
 
 
 
