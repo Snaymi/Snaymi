@@ -6,11 +6,6 @@
     alt="typing"
   />
 </p>
-Sou um Desenvolvedor Front-End apaixonado por tecnologia, inovação e por construir interfaces que unem design, usabilidade e performance. Atualmente, trabalho com:
-
-- **JavaScript**, **HTML**, **CSS**
-- **React**, **Vue.js**, **Svelte**
-- **Bootstrap**, **TailwindCSS**
 
 Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados para me tornar um desenvolvedor **Full Stack** completo.
 
