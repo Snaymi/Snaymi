@@ -36,10 +36,10 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
 
 <table cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td style="border:0; padding:0; vertical-align:middle;">
+    <td style="border:none; padding:0; vertical-align:middle;">
       <img src="./assets/GITIMG.png" alt="Snaymi" width="260" style="border:0; display:block;" />
     </td>
-    <td style="border:0; padding:0 0 0 16px; vertical-align:middle; white-space:nowrap;">
+    <td style="border:none; padding:0 0 0 16px; vertical-align:middle; white-space:nowrap;">
       <span>⬅️</span>
       <a href="LINK_DO_SEU_PORTFOLIO" target="_blank"><b>Veja meu portfólio completo aqui</b></a>
     </td>
