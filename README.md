@@ -9,7 +9,6 @@
 
 Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados para me tornar um desenvolvedor **Full Stack** completo.
 
-
 ## 🚀 Tecnologias & Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
