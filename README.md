@@ -43,7 +43,7 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
     </div>
 
   <div style="display:table-cell; vertical-align:middle; padding:0 0 0 16px; white-space:nowrap;">
-      <a href="[LINK_DO_SEU_PORTFOLIO](https://snaymi.github.io/Curriculum/)" target="_blank" style="text-decoration:none;">
+      <a href="https://snaymi.github.io/Curriculum/" target="_blank" style="text-decoration:none;">
         <b>⬆️ Veja meu portfólio completo aqui</b>
       </a>
     </div>
