@@ -9,7 +9,6 @@
 
 Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados para me tornar um desenvolvedor **Full Stack** completo.
 
----
 
 ## 🚀 Tecnologias & Ferramentas
 <p align="center">
