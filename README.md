@@ -34,13 +34,15 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/snaymi-borges-474891195) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sneymeb@hotmail.com)
 
-<div style="display:table; border:0; border-collapse:collapse;">
+<div style="display:table;">
   <div style="display:table-row;">
-    <div style="display:table-cell; vertical-align:middle; padding:0; border:0;">
-      <img src="./assets/GITIMG.png" alt="Snaymi" width="260" style="display:block; border:0; outline:0; box-shadow:none;" />
+    <div style="display:table-cell; vertical-align:middle; padding:0;">
+      <div style="width:260px; overflow:hidden; line-height:0;">
+        <img src="./assets/GITIMG.png" alt="Snaymi" width="268" style="display:block; margin:-4px; border:0;" />
+      </div>
     </div>
 
-  <div style="display:table-cell; vertical-align:middle; padding:0 0 0 16px; border:0; white-space:nowrap;">
+  <div style="display:table-cell; vertical-align:middle; padding:0 0 0 16px; white-space:nowrap;">
       <a href="LINK_DO_SEU_PORTFOLIO" target="_blank" style="text-decoration:none;">
         <b>⬅️ Veja meu portfólio completo aqui</b>
       </a>
