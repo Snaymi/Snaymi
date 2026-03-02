@@ -20,8 +20,6 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
   <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Svelte-111827?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
-<br>
-
 ---
 
 ## ✨ Sobre mim
