@@ -34,7 +34,7 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/snaymi-borges-474891195) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sneymeb@hotmail.com)
 
-<table style="border:none; display:flex>
+<table style="border:none; display:flex">
 <tr>
 <td style="padding:0; vertical-align:middle;">
   <img src="./assets/GITIMG.png" alt="Snaymi" width="260" />
