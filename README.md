@@ -1,6 +1,6 @@
 
 # 👋 Olá, eu sou Snaymi!
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00E5FF&width=700&lines=Front-end+Developer;React+%7C+Vue+%7C+Svelte;Apaixonado+por+UI%2FUX+e+performance;Sempre+aprendendo+e+construindo)
 Sou um Desenvolvedor Front-End apaixonado por tecnologia, inovação e por construir interfaces que unem design, usabilidade e performance. Atualmente, trabalho com:
 
 - **JavaScript**, **HTML**, **CSS**
