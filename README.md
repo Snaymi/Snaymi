@@ -35,19 +35,14 @@ Estou sempre buscando evoluir, aprendendo sobre Back-End, APIs e bancos de dados
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sneymeb@hotmail.com)
 
 <table align="center">
-  <tr>
-    <td width="220" align="center" valign="middle">
-      <img src="./assets/GITIMG.png" alt="Minha foto" width="180" />
-    </td>
-
-    <td align="left" valign="middle">
-      <a href="LINK_DO_SEU_PORTFOLIO">
-        <b>Veja meu portfólio completo aqui</b>
-      </a>
-      &nbsp;
-      <img src="./assets/arrow-left.gif" alt="←" width="40" />
-    </td>
-  </tr>
+<tr>
+<td width="240" align="center" valign="middle">
+<img src="./assets/GITIMG.png" alt="Snaymi" width="220" />
+</td>
+<td align="left" valign="middle">
+<a href="LINK_DO_SEU_PORTFOLIO" target="_blank"><b>Veja meu portfólio completo aqui</b></a> <span>&larr;</span>
+</td>
+</tr>
 </table>
 ---
 
