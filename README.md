@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Front-end+Developer;React+%7C+Vue+%7C+Svelte+%7c+Angular;Apaixonado+por+UI%2FUX+e+performance;Sempre+aprendendo+e+construindo"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Svelte+%7c+Angular;Apaixonado+por+UI%2FUX+e+performance;Sempre+aprendendo+e+construindo"
     alt="typing"
   />
 </p>
